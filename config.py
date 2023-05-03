@@ -1,0 +1,9 @@
+hot_key = "DnJnBZmCl1m6+o4Q9+9wZqIS4jP1nEm8Tlp/mXvCS/8bWvqcKJ/zZA=="
+hotword_path0 = "/Users/VW7SYSB/Documents/Projects/JARVIS/JARenv/Hotwords/Hey-Jar_de_mac_v2_2_0.ppn"
+hotword_path1 = "/Users/VW7SYSB/Documents/Projects/JARVIS/JARenv/Hotwords/Hey-Jarvis_de_mac_v2_2_0.ppn"
+hotword_path2 = "/Users/VW7SYSB/Documents/Projects/JARVIS/JARenv/Hotwords/Ok-Jarvis_de_mac_v2_2_0.ppn"
+hotword_params_path = "/Users/VW7SYSB/Documents/Projects/JARVIS/JARenv/Hotwords/porcupine_params_de.pv"
+weatherkey = '114fa6e97351f5838ff7f9a8460c0fba'
+news_api_key = '8ef19daf98584c6ea12ae1ff242222c7'
+openkey = "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"
+gnews_key = "abc8bb8f6fdcd3c66f0373ca6535daf7"
